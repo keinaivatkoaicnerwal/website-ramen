@@ -246,6 +246,7 @@ button:active .button_top {
     color: #414a4b;
     letter-spacing: -1px;
     line-height: 1.2;
+    z-index: 2;
 }
 
 p{
@@ -256,6 +257,7 @@ p{
     color: #ffffff;
     letter-spacing: -1px;
     line-height: 1.2;
+    z-index: 2;
 }
 
 h6{
@@ -342,6 +344,7 @@ h6{
     color: #414a4b;
     letter-spacing: -1px;
     line-height: 1.2;
+    z-index: 2;
 }
 .space{
     font-size: 40px;
@@ -417,6 +420,7 @@ h6{
     color: #414a4b;
     letter-spacing: -1px;
     line-height: 1.2;
+    z-index: 2;
 }
 
 #coupon{
